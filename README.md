@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Arif</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marif8287&label=Profile%20views&color=0e75b6&style=flat" alt="mohdarifcpp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marif8287" alt="marif8287" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdarifcpp" alt="mohdarifcpp" /></a> </p>
 
 - 📫 How to reach me **mohdarifcpp@gmail.com**
 
